@@ -7,4 +7,4 @@ I am the one and only Maisie.
 - I play netball
 - I like to walk the neighbour's dog
 
-![Look how flexible I am!](images/ballet.png)
+![Look how flexible I am!](bendy.png)
